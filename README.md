@@ -8,6 +8,7 @@ The first project consisted in a dataset of about ~5GB, whereas the second proje
 Hereby, the first step included in resizing the dataset images to a more coherent, efficient and useful format. I have used 600x600 images for the first project and 300x300 for the second project.
 
 The kaggle links to competitions are the following:
+
 Competition One: https://www.kaggle.com/c/dl-ay21t1-a1/leaderboard
 
 Competition Two: https://www.kaggle.com/c/dl-ay21t1-a2/leaderboard
