@@ -1,0 +1,203 @@
+Starting training; got log keys: []
+Epoch 1/50
+Start epoch 0 of training; got log keys: []
+1169/1169 [==============================] - 10591s 9s/step - loss: 1.7739 - accuracy: 0.5634 - top_5_accuracy: 0.8302 - val_loss: 0.9570 - val_accuracy: 0.7222 - val_top_5_accuracy: 0.9537
+End epoch 0 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 2/50
+Start epoch 1 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.8261 - accuracy: 0.7606 - top_5_accuracy: 0.9647 - val_loss: 0.7308 - val_accuracy: 0.7794 - val_top_5_accuracy: 0.9677
+End epoch 1 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 3/50
+Start epoch 2 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.6540 - accuracy: 0.8048 - top_5_accuracy: 0.9751 - val_loss: 0.6426 - val_accuracy: 0.8041 - val_top_5_accuracy: 0.9732
+End epoch 2 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 4/50
+Start epoch 3 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.5542 - accuracy: 0.8359 - top_5_accuracy: 0.9824 - val_loss: 0.5772 - val_accuracy: 0.8211 - val_top_5_accuracy: 0.9782
+End epoch 3 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 5/50
+Start epoch 4 of training; got log keys: []
+1169/1169 [==============================] - 1537s 1s/step - loss: 0.4902 - accuracy: 0.8491 - top_5_accuracy: 0.9864 - val_loss: 0.5259 - val_accuracy: 0.8382 - val_top_5_accuracy: 0.9813
+End epoch 4 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 6/50
+Start epoch 5 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.4378 - accuracy: 0.8682 - top_5_accuracy: 0.9887 - val_loss: 0.5060 - val_accuracy: 0.8438 - val_top_5_accuracy: 0.9825
+End epoch 5 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 7/50
+Start epoch 6 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.3991 - accuracy: 0.8788 - top_5_accuracy: 0.9914 - val_loss: 0.4699 - val_accuracy: 0.8577 - val_top_5_accuracy: 0.9834
+End epoch 6 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 8/50
+Start epoch 7 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.3683 - accuracy: 0.8909 - top_5_accuracy: 0.9919 - val_loss: 0.4529 - val_accuracy: 0.8630 - val_top_5_accuracy: 0.9831
+End epoch 7 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 9/50
+Start epoch 8 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.3421 - accuracy: 0.8982 - top_5_accuracy: 0.9935 - val_loss: 0.4362 - val_accuracy: 0.8682 - val_top_5_accuracy: 0.9841
+End epoch 8 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 10/50
+Start epoch 9 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.3167 - accuracy: 0.9056 - top_5_accuracy: 0.9954 - val_loss: 0.4187 - val_accuracy: 0.8727 - val_top_5_accuracy: 0.9855
+End epoch 9 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 11/50
+Start epoch 10 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.2921 - accuracy: 0.9126 - top_5_accuracy: 0.9958 - val_loss: 0.4104 - val_accuracy: 0.8743 - val_top_5_accuracy: 0.9864
+End epoch 10 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 12/50
+Start epoch 11 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.2792 - accuracy: 0.9159 - top_5_accuracy: 0.9964 - val_loss: 0.3966 - val_accuracy: 0.8799 - val_top_5_accuracy: 0.9871
+End epoch 11 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 13/50
+Start epoch 12 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.2613 - accuracy: 0.9227 - top_5_accuracy: 0.9966 - val_loss: 0.3850 - val_accuracy: 0.8819 - val_top_5_accuracy: 0.9862
+End epoch 12 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 14/50
+Start epoch 13 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.2505 - accuracy: 0.9264 - top_5_accuracy: 0.9971 - val_loss: 0.3709 - val_accuracy: 0.8886 - val_top_5_accuracy: 0.9875
+End epoch 13 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 15/50
+Start epoch 14 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.2293 - accuracy: 0.9311 - top_5_accuracy: 0.9976 - val_loss: 0.3616 - val_accuracy: 0.8918 - val_top_5_accuracy: 0.9876
+End epoch 14 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 16/50
+Start epoch 15 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.2190 - accuracy: 0.9354 - top_5_accuracy: 0.9980 - val_loss: 0.3590 - val_accuracy: 0.8933 - val_top_5_accuracy: 0.9877
+End epoch 15 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 17/50
+Start epoch 16 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.2076 - accuracy: 0.9394 - top_5_accuracy: 0.9979 - val_loss: 0.3670 - val_accuracy: 0.8909 - val_top_5_accuracy: 0.9872
+End epoch 16 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 18/50
+Start epoch 17 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.2030 - accuracy: 0.9403 - top_5_accuracy: 0.9982 - val_loss: 0.3553 - val_accuracy: 0.8933 - val_top_5_accuracy: 0.9885
+End epoch 17 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 19/50
+Start epoch 18 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1945 - accuracy: 0.9427 - top_5_accuracy: 0.9982 - val_loss: 0.3454 - val_accuracy: 0.8966 - val_top_5_accuracy: 0.9884
+End epoch 18 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 20/50
+Start epoch 19 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1849 - accuracy: 0.9462 - top_5_accuracy: 0.9988 - val_loss: 0.3440 - val_accuracy: 0.8968 - val_top_5_accuracy: 0.9877
+End epoch 19 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 21/50
+Start epoch 20 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1762 - accuracy: 0.9501 - top_5_accuracy: 0.9990 - val_loss: 0.3361 - val_accuracy: 0.9018 - val_top_5_accuracy: 0.9885
+End epoch 20 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 22/50
+Start epoch 21 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1688 - accuracy: 0.9489 - top_5_accuracy: 0.9988 - val_loss: 0.3414 - val_accuracy: 0.8990 - val_top_5_accuracy: 0.9881
+End epoch 21 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 23/50
+Start epoch 22 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1581 - accuracy: 0.9539 - top_5_accuracy: 0.9994 - val_loss: 0.3270 - val_accuracy: 0.9004 - val_top_5_accuracy: 0.9887
+End epoch 22 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 24/50
+Start epoch 23 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.1572 - accuracy: 0.9530 - top_5_accuracy: 0.9989 - val_loss: 0.3315 - val_accuracy: 0.9024 - val_top_5_accuracy: 0.9888
+End epoch 23 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 25/50
+Start epoch 24 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1463 - accuracy: 0.9574 - top_5_accuracy: 0.9993 - val_loss: 0.3199 - val_accuracy: 0.9045 - val_top_5_accuracy: 0.9887
+End epoch 24 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 26/50
+Start epoch 25 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1407 - accuracy: 0.9578 - top_5_accuracy: 0.9993 - val_loss: 0.3252 - val_accuracy: 0.9031 - val_top_5_accuracy: 0.9891
+End epoch 25 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 27/50
+Start epoch 26 of training; got log keys: []
+1169/1169 [==============================] - 1537s 1s/step - loss: 0.1388 - accuracy: 0.9607 - top_5_accuracy: 0.9991 - val_loss: 0.3183 - val_accuracy: 0.9059 - val_top_5_accuracy: 0.9886
+End epoch 26 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 28/50
+Start epoch 27 of training; got log keys: []
+1169/1169 [==============================] - 1536s 1s/step - loss: 0.1347 - accuracy: 0.9606 - top_5_accuracy: 0.9997 - val_loss: 0.3158 - val_accuracy: 0.9063 - val_top_5_accuracy: 0.9887
+End epoch 27 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 29/50
+Start epoch 28 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.1276 - accuracy: 0.9642 - top_5_accuracy: 0.9995 - val_loss: 0.3181 - val_accuracy: 0.9067 - val_top_5_accuracy: 0.9888
+End epoch 28 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 30/50
+Start epoch 29 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.1264 - accuracy: 0.9631 - top_5_accuracy: 0.9993 - val_loss: 0.3129 - val_accuracy: 0.9088 - val_top_5_accuracy: 0.9905
+End epoch 29 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 31/50
+Start epoch 30 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1176 - accuracy: 0.9662 - top_5_accuracy: 0.9993 - val_loss: 0.3164 - val_accuracy: 0.9086 - val_top_5_accuracy: 0.9896
+End epoch 30 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 32/50
+Start epoch 31 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.1166 - accuracy: 0.9681 - top_5_accuracy: 0.9995 - val_loss: 0.3114 - val_accuracy: 0.9102 - val_top_5_accuracy: 0.9893
+End epoch 31 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 33/50
+Start epoch 32 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1160 - accuracy: 0.9673 - top_5_accuracy: 0.9995 - val_loss: 0.3060 - val_accuracy: 0.9111 - val_top_5_accuracy: 0.9894
+End epoch 32 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 34/50
+Start epoch 33 of training; got log keys: []
+1169/1169 [==============================] - 1532s 1s/step - loss: 0.1161 - accuracy: 0.9676 - top_5_accuracy: 0.9997 - val_loss: 0.3029 - val_accuracy: 0.9126 - val_top_5_accuracy: 0.9890
+End epoch 33 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 35/50
+Start epoch 34 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1099 - accuracy: 0.9688 - top_5_accuracy: 0.9996 - val_loss: 0.2997 - val_accuracy: 0.9149 - val_top_5_accuracy: 0.9893
+End epoch 34 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 36/50
+Start epoch 35 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1008 - accuracy: 0.9718 - top_5_accuracy: 0.9997 - val_loss: 0.3004 - val_accuracy: 0.9146 - val_top_5_accuracy: 0.9889
+End epoch 35 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 37/50
+Start epoch 36 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.1015 - accuracy: 0.9719 - top_5_accuracy: 0.9997 - val_loss: 0.3036 - val_accuracy: 0.9144 - val_top_5_accuracy: 0.9899
+End epoch 36 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 38/50
+Start epoch 37 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0945 - accuracy: 0.9727 - top_5_accuracy: 0.9999 - val_loss: 0.3031 - val_accuracy: 0.9126 - val_top_5_accuracy: 0.9897
+End epoch 37 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 39/50
+Start epoch 38 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0928 - accuracy: 0.9746 - top_5_accuracy: 0.9998 - val_loss: 0.3000 - val_accuracy: 0.9167 - val_top_5_accuracy: 0.9900
+End epoch 38 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 40/50
+Start epoch 39 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0948 - accuracy: 0.9730 - top_5_accuracy: 0.9998 - val_loss: 0.3074 - val_accuracy: 0.9115 - val_top_5_accuracy: 0.9896
+End epoch 39 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 41/50
+Start epoch 40 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0928 - accuracy: 0.9742 - top_5_accuracy: 0.9998 - val_loss: 0.3126 - val_accuracy: 0.9130 - val_top_5_accuracy: 0.9888
+End epoch 40 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 42/50
+Start epoch 41 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0894 - accuracy: 0.9759 - top_5_accuracy: 0.9996 - val_loss: 0.2999 - val_accuracy: 0.9175 - val_top_5_accuracy: 0.9897
+End epoch 41 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 43/50
+Start epoch 42 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0840 - accuracy: 0.9772 - top_5_accuracy: 0.9998 - val_loss: 0.2952 - val_accuracy: 0.9177 - val_top_5_accuracy: 0.9900
+End epoch 42 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 44/50
+Start epoch 43 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0837 - accuracy: 0.9778 - top_5_accuracy: 0.9999 - val_loss: 0.2950 - val_accuracy: 0.9172 - val_top_5_accuracy: 0.9899
+End epoch 43 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 45/50
+Start epoch 44 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0801 - accuracy: 0.9784 - top_5_accuracy: 0.9999 - val_loss: 0.2930 - val_accuracy: 0.9182 - val_top_5_accuracy: 0.9907
+End epoch 44 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 46/50
+Start epoch 45 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0793 - accuracy: 0.9779 - top_5_accuracy: 0.9999 - val_loss: 0.2969 - val_accuracy: 0.9151 - val_top_5_accuracy: 0.9900
+End epoch 45 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 47/50
+Start epoch 46 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0775 - accuracy: 0.9796 - top_5_accuracy: 0.9999 - val_loss: 0.2854 - val_accuracy: 0.9210 - val_top_5_accuracy: 0.9903
+End epoch 46 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 48/50
+Start epoch 47 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0730 - accuracy: 0.9798 - top_5_accuracy: 0.9999 - val_loss: 0.2939 - val_accuracy: 0.9168 - val_top_5_accuracy: 0.9899
+End epoch 47 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 49/50
+Start epoch 48 of training; got log keys: []
+1169/1169 [==============================] - 1534s 1s/step - loss: 0.0730 - accuracy: 0.9810 - top_5_accuracy: 0.9997 - val_loss: 0.2953 - val_accuracy: 0.9177 - val_top_5_accuracy: 0.9902
+End epoch 48 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Epoch 50/50
+Start epoch 49 of training; got log keys: []
+1169/1169 [==============================] - 1533s 1s/step - loss: 0.0743 - accuracy: 0.9792 - top_5_accuracy: 0.9999 - val_loss:= val_accuracy: 0.9175 - val_top_5_accuracy: 0.9901
+End epoch 49 of training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+Stop training; got log keys: ['loss', 'accuracy', 'top_5_accuracy', 'val_loss', 'val_accuracy', 'val_top_5_accuracy']
+time: 23h 50min 7s (started: 2021-11-04 16:57:16 +00:00)
