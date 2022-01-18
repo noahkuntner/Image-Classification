@@ -9,6 +9,7 @@ Hereby, the first step included in resizing the dataset images to a more coheren
 
 The kaggle links to competitions are the following:
 Competition One: https://www.kaggle.com/c/dl-ay21t1-a1/leaderboard
+
 Competition Two: https://www.kaggle.com/c/dl-ay21t1-a2/leaderboard
 
 In both competition my algorithm scored close to 90%, or above (in the first competition), whereas I've scored 17/32 and 10/31 in the competitions within my class.
