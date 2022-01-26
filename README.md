@@ -1,5 +1,5 @@
 # Computer-Vision
-This repository includes projects I've done for my graduate studies:
+This repository includes projects I've done for my studies:
 
 The repository is divided in two parts, whereas both folder include code for the classification of object into pre-determined categories (10 for the first project, 75 categories for the second project).
 For the first project I have implemented a model using the pre-assigned weights from EfficientNetB7 (https://keras.io/api/applications/efficientnet/), whereas for the second project I have also implemented a pipeline with EfficientNetB7, as well as a model with the Swin Transformer (https://github.com/SwinTransformer/Swin-Transformer-Object-Detection)
